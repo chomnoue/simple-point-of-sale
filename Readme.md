@@ -1,14 +1,17 @@
-#Simple Point Of Sale Implemented in Scala
+# Simple Point Of Sale Implemented in Scala
 
-##Requirements:
+## Requirements:
+
 * Java 8
 * Scala 2.13
 * Sbt 1.3.3
 
-##Run the tests
+## Run the tests
+
 ```
 sbt test
 ```
 
-##Usage
+## Usage
+
 Please check the unit tests in src/test/scala/com/terminal/TerminalTest.scala for examples how to use the library.
