@@ -1,4 +1,5 @@
 #Simple Point Of Sale Implemented in Scala
+
 ##Requirements:
 * Java 8
 * Scala 2.13
